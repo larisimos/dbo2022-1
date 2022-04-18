@@ -1,0 +1,18 @@
+body{background-color: rgba(137, 11, 240, 0.829);
+}
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu a{
+    color:aliceblue;
+    border-width: 100vh;
+    border-color: aquamarine;}
+
+.barra{
+    width: 100px;
+    height:100px;
+    size: 300px;
+
+}

@@ -25,6 +25,6 @@ nav {width: 1180px;
    }
 
    nav ul { background: rgb(227, 172, 242); height: 30px; padding: 6px; border: 3px outset transparent; }
-   nav li {list-style: none; padding: 10px 105px; background: rgb(227, 172, 242); border: 10px  rgb(227, 172, 242);
+   nav li {list-style: none; padding: 5px 105px; background: rgb(227, 172, 242); border: 10px  rgb(227, 172, 242);
     margin-bottom: 5px; font: 16 verdana; float:left;}
     

@@ -1,0 +1,30 @@
+body{background-color: rgba(137, 11, 240, 0.829);
+}
+.top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu a{
+    color:aliceblue;
+    border-width: 100vh;
+    border-color: aquamarine;}
+
+.barra{
+    width: 100px;
+    height:100px;
+    size: 300px;
+
+}
+nav {width: 1180px; 
+    height: 20px;
+    border: 1px transparent; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-bottom: 4px;
+   }
+
+   nav ul { background: rgb(227, 172, 242); height: 30px; padding: 6px; border: 3px outset transparent; }
+   nav li {list-style: none; padding: 5px 105px; background: rgb(227, 172, 242); border: 10px  rgb(227, 172, 242);
+    margin-bottom: 5px; font: 16 verdana; float:left;}
+    

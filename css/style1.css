@@ -1,0 +1,10 @@
+@import './css/base.css';
+  
+.bannergeral {
+  display: flex;
+  justify-content: space-around;
+  height:50vh;
+    width: 100vw;
+}
+
+

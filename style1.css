@@ -59,12 +59,12 @@ nav {width: 1200px;
  }
 
  nav ul { background:transparent;height: 30px; padding: 2px; border: 3px outset transparent; }
- nav li {list-style: none; padding: 5px 105px; background: rgb(227, 172, 242); border: 10px  rgb(227, 172, 242);
-  margin-bottom: 5px; font: 16 verdana; float:left;}
+ nav li {list-style: none; padding: 4px 105px; background: rgb(227, 172, 242); border: 10px  rgb(227, 172, 242);
+  margin-bottom: 2px; font: 16 verdana; float:left;}
   nav a { color: rgb(0, 0, 0); text-decoration: none;}
-nav li:hover {color: red; background-color: rgb(255, 255, 255);}
+nav li:hover {color: rgb(111, 44, 169); background-color: rgb(247, 245, 245);}
 nav li ul {	position: absolute;
-      width: 100px;
+      width: 120px;
       height: 120px; 
       left: 625px;
       top: 166px;
